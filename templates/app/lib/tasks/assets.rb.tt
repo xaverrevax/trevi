@@ -1,3 +1,5 @@
+require 'rake'
+
 namespace :assets do
   desc 'Precompile assets'
   task :precompile => :app do
