@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'trevi/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "trevi"
+  spec.name          = "trevix"
   spec.version       = Trevi::VERSION
   spec.authors       = ["Alex MacCaw"]
   spec.email         = ["alex@alexmaccaw.com"]

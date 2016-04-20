@@ -13,3 +13,8 @@ It includes, amongst other things:
   gem install trevi
 
   trevi app_name
+
+
+## Build gem
+
+gem build my_gem.gemspec
